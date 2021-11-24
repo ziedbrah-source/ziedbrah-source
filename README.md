@@ -8,4 +8,6 @@
 - 😄 Pronouns: brah
 
   I'm a Web/Blockchain(smart contracts) Developer
+  
+  
   I love reading, writing and DC Comics.
