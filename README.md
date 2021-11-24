@@ -10,4 +10,4 @@
   I'm a Web/Blockchain(smart contracts) Developer
   
   
-  I love reading, writing and DC Comics.
+  I love reading docs and recently books, writing blogs.
