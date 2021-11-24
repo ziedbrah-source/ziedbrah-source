@@ -1,12 +1,11 @@
 ### Hola, I'm Brahmi Mohamed zied! 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on decentralizing the world!
-- 🌱 I’m currently learning blockchain development
-- 💬 Ask me about devops / blockchain/ nodejs (backend)
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning Blockchain Development
+- 💬 Ask me about Devops / Blockchain / Nodejs (backend)/ Competitive Programming
+- 📫 How to reach me: [**Instagram-@ziedbrah**](https://www.instagram.com/ziedbrah/)
 - 😄 Pronouns: brah
-- ⚡ Fun fact: I hate training, but I train.
+
+  I'm a Web/Blockchain(smart contracts) Developer
+  I love reading, writing and DC Comics.
