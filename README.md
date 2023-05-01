@@ -1,13 +1,9 @@
 ### Hola, I'm Brahmi Mohamed zied! 👋
 
+- 🌱 I’m currently learning about cloud!
+- 💬 Ask me about Cloud( AWS ) / Devops / Blockchain / Backend / Frontend/ Competitive Programming
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/mohamed-zied-brahmi/) - [**Instagram-@ziedbrah**](https://www.instagram.com/ziedbrah/). 
 
-- 🔭 I’m currently working on decentralizing the world!
-- 🌱 I’m currently learning Blockchain Development
-- 💬 Ask me about Devops / Blockchain / Nodejs (backend)/ Competitive Programming
-- 📫 How to reach me: [**Instagram-@ziedbrah**](https://www.instagram.com/ziedbrah/)
-- 😄 Pronouns: brah
-
-  I'm a Web/Blockchain(smart contracts) Developer
   
   
   I love reading docs and recently books, writing blogs.
